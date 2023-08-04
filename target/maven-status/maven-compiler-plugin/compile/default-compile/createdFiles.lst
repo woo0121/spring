@@ -1,0 +1,8 @@
+com\test\app\controller\ParamController.class
+com\test\app\domain\dto\MemoDto.class
+com\test\app\domain\dto\Person$PersonBuilder.class
+com\test\app\domain\dto\Person.class
+com\test\app\domain\dto\MemoDto$MemoDtoBuilder.class
+com\test\app\controller\MemoController.class
+com\test\app\HomeController.class
+com\test\app\config\AppConfiguration.class
